@@ -52,6 +52,10 @@ The model was evaluated using the MNIST test dataset.
 - Understanding of model training and backpropagation.
 - Model evaluation using classification accuracy.
 
+## Prediction Results
+
+![Digit recognition predictions](prediction_results.png)
+
 ## Dataset
 [MNIST Handwritten Digit Database](http://yann.lecun.com/exdb/mnist/)
 
